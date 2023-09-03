@@ -25,4 +25,7 @@ class Car {
 var bmw = Car(color: "blue", make: "bmw i8")
 var car2 = Car(color: "green", make: "mustang")
 
+// car2 -> bmw
+// car2 | bmw
+
 
